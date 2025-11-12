@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Frigo IA",
+  "description": "Votre assistant nutrition intelligent et anti-gaspillage. Scannez le contenu de votre frigo, suivez la fraîcheur des aliments et obtenez des recettes personnalisées pour ne plus jamais rien jeter.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
